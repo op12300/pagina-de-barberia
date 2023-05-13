@@ -1,0 +1,109 @@
+header {
+    background-color: #BBBBBB;
+    padding: 50px;
+}
+
+.bloque-contenedor1 {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+
+}
+
+.bloque-contenedor1 h1 {
+    display: inline;
+    padding: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    background: #BBBBBB;
+
+}
+
+
+
+.bloque-contenedor1 nav {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+
+
+
+}
+
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+
+}
+
+nav a {
+
+
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+.nav a:active {
+    border-color: #22ff00;
+}
+
+.bloque-main {
+    background: aquamarine;
+    padding: 20px;
+
+}
+
+.tituloCentralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+
+}
+
+em strong {
+    color: blueviolet;
+}
+
+#mision {
+    font-size: 20px;
+}
+
+#foto {
+    width: 100%;
+}
+
+
+
+.diferenciales {
+    background: gray;
+    padding: 30px;
+}
+
+.items {
+    font-style: italic;
+}
+
+.diferenciales ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 20%;
+}
+
+.diferencialesImagen {
+
+    text-align: right;
+
+    width: 20%;
+}
